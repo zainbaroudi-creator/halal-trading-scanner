@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+float_cache.json
+scanner-watch.lock
+scanner-watch.log
+alert_history.json
